@@ -175,7 +175,7 @@ h3 {
 /* GALLERY */
 .gallery .gallery-img {
   background: center center no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   min-height: 237px;
   position: relative; }
   .gallery .gallery-img.img-bg-1 {

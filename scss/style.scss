@@ -240,7 +240,7 @@ h3 {
 .gallery {
     .gallery-img {
         background: center center no-repeat;
-        background-size: cover;
+        background-size: 100% 100%;
         min-height: 237px;
         position: relative;
         &.img-bg-1 {
