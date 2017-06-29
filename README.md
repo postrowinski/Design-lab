@@ -1,2 +1,2 @@
-# Creative
-https://postrowinski.github.io/Creative_Project/
+# Design Lab
+https://postrowinski.github.io/Design-lab
